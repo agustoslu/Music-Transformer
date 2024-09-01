@@ -3,7 +3,7 @@ Implementation of the paper "Music Transformer: Generating Music with Long-Term 
 
 ## Key Terms:
 
-- Relative Positional Self-Attention
+- Self-Attention with Relative Position Representations
 - Skewing Algorithm for reduced space complexity (from O(N^2D) to O(ND)) 
 
 ![](https://raw.githubusercontent.com/agustoslu/Music-Transformer/fad659496aee4c121eacab3805b0df05fed31ae2/readme_img/skewing.png)
